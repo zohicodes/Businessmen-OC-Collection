@@ -9,4 +9,4 @@ This repository is dedicated to my **OC Businessmen**.
 | President Boss                  | Hitoshi Horuko               |
 | Agent Roger                     | Deltorin Velozity            |
 | Coach Dodge                     | Samuel Harpellson            |
-| Kairou                          | Asher Anderson               |
+| Kahoot Guy                          | Asher Anderson               |
